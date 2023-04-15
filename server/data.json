@@ -1,0 +1,14 @@
+{
+  "todo": [
+    {
+      "text": "안녕하세요!",
+      "checked": true,
+      "id": 1
+    },
+    {
+      "text": "dd",
+      "checked": false,
+      "id": 2
+    }
+  ]
+}
